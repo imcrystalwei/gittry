@@ -3,3 +3,15 @@ b = 2;
 c = a+ b;
 d = c +2 ;
 
+notes for learing github:
+
+the commands
+
+git add #the name of the file#
+git commit -m "the words you add"  #add the comment of the change of this time#
+git push  #push the new version#
+git clone the SSH  #clone the git from your github,using ssh can avoid entering the account and password every time#
+
+
+
+
